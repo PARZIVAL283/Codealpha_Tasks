@@ -159,7 +159,6 @@ The target variable was `Selling_Price`. A derived feature, `Car_Age`, was creat
 - **Root Mean Squared Error (RMSE):** Gives greater weight to larger prediction errors.
 - **R² Score:** Measures how well the model explains variation in selling prices.
 
-The trained Random Forest pipeline was saved as `car_price_prediction_model.pkl`.
 
 ---
 
